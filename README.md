@@ -13,3 +13,5 @@ Before moving on to the Python code, we need to address an important aspect of l
 
 
 While building a linear model, you assume that the target variable and the input variables are linearly dependent.
+
+Source: upGrad
